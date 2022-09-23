@@ -1,0 +1,2 @@
+cooldown=false
+captured=noone
